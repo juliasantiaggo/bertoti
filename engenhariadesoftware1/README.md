@@ -76,7 +76,7 @@ Embora o Amazon Music tenha uma biblioteca sólida, ele ainda fica atrás do Spo
 
  
 # 16/08/2024 - sexta-feira "3: escolher a arquitetura de uma empresa e comentar seus tradeoffs"
-![alt text](image-2.png)
+![alt text](image.png)
 
 Os trade-offs não funcionais entre os serviços de banco de dados da Azure se referem às características de desempenho, confiabilidade, escalabilidade, e outros fatores que impactam a escolha de um banco de dados, sem se referir diretamente às funcionalidades. Abaixo estão os principais aspectos não funcionais, com seus aspectos positivos e negativos em diferentes bancos de dados da Azure:
 
