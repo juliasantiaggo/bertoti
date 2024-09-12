@@ -1,11 +1,11 @@
-# 08/08/2024 - quinta-feira "1: comentário do livro de engenharia de software no google"
+# 08/08/2024 - quinta-feira "1: comentário do livro de Engenharia de Software no Google"
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 No meu entendimento os engenheiros de software possuem maior responsabilidade no quesito de tomada de decisões e principalmente na organização do tempo e em ideias inovadoras para o produto. Tendo em vista esses aspectos, o engenheiro de software possui é um planejador e possui papel importante na criação, na rota do desenvolvimento e entrega do resultado. 
 
 
 
-# 09/08/2024 - sexta-feira 1.1: comentário do livro de engenharia de software no google
+# 09/08/2024 - sexta-feira 1.1: comentário do livro de Engenharia de Software no Google
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 Conclui-se com esse depoimento que os engenheiros de software precisam mais do que apenas programação para seguir com seus projetos. A programaçaõ por causa disso não é desmerecida, ela é necessária. Porém é preciso de ideias inovadoras, planejamento, eficiência, conexão e mais. Não é só sobre saber programar, vai muito mais além.
