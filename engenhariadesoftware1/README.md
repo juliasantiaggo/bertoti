@@ -129,7 +129,7 @@ Database for MySQL/PostgreSQL:**
 
 Complexidade na gestão de grandes dados: A configuração e otimização do Azure Synapse Analytics podem ser complexas, especialmente para equipes menores que não têm experiência em administrar grandes pipelines de dados.
 
-# 6. Segurança
+## 6. Segurança
 **Positivo no Azure SQL Database:**
 
 **Segurança robusta:** Azure SQL Database oferece suporte integrado para criptografia, autenticação multifator e controle de acesso granular, atendendo a requisitos de conformidade de segurança elevados.
